@@ -1,0 +1,6 @@
+include LICENSE
+include requirements.txt
+include Authors
+include Credits
+recursive-include nfw/resources *
+recursive-include docs *

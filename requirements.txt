@@ -1,0 +1,6 @@
+mock
+PyMySQL
+bcrypt
+passlib
+Jinja2
+redis
