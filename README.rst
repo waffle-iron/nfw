@@ -1,3 +1,6 @@
+.. image:: https://badge.waffle.io/TachyonProject/nfw.png?label=ready&title=Ready 
+ :target: https://waffle.io/TachyonProject/nfw
+ :alt: 'Stories in Ready'
 Neutrino
 ========
 Project Status: Development
